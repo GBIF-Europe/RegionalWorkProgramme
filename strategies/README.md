@@ -6,3 +6,6 @@ Aims to capture global or regional strategies relevant for the European Nodes.
 
 ## Regional strategies
 * [Engagement Strategy for Europe and Central Asia 2019-2020](engagementECA2019.md)
+* [Engagement strategy for Europe and Central Asia 2020-2022](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/Outreach-strategy)
+* [Communication strategy/plan](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/Communication-strategy)
+* [Hosted data publishing services](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/Data-publishing)
