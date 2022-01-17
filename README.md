@@ -1,4 +1,4 @@
-# RegionalWorkProgramme
+# Regional Work Programme
 Aims to capture European Nodes strategies and work programmes.
 
 # Context
