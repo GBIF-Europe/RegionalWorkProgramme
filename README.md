@@ -7,6 +7,11 @@ During the 11th European GBIF Nodes meeting, we looked back at previous Regional
 # What can I find here?
 European nodes [strategies](strategies/README.md) and [work programmes](workProgrammes/README.md) stored here are living documents written and organised by all European Nodes managers. All collaborative efforts within the European Nodes should theoretically be listed here.
 
+* [ECA engagement strategy](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/Outreach-strategy)
+* [ECA research infrastructure strategy](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/ECA-European-RI)
+* [ECA communication strategy](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/Communication-strategy)
+* [ECA data publishing strategy](https://github.com/GBIF-Europe/RegionalWorkProgramme/wiki/Data-publishing)
+
 # How can you particiate?
 If your familiar with [Git Markdown](https://github.github.com/gfm/), simply contribute as you would do with any other repository.
 If you are less familiar with it, just post your issues and let other elaborate them, or reply to others issues.
@@ -15,4 +20,4 @@ If you are less familiar with it, just post your issues and let other elaborate 
 We mostly expect and welcome contributions from all European Nodes managers. Other potential contributors are European Nodes staff, GBIF Secretariat or GBIF community at large including data providers and data users.
 
 # Effectiveness
-The use and success of this repository will be evaluated at our next European Nodes meeting, in Spring 2020.
+The use and efficiency of this repository will be evaluated at our [European Nodes meetings](https://github.com/GBIF-Europe/Regional-ECA-meetings).
